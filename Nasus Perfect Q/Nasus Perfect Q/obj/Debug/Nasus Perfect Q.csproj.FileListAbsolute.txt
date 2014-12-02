@@ -1,0 +1,17 @@
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\Nasus Perfect Q.exe.config
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\Nasus Perfect Q.exe
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\Nasus Perfect Q.pdb
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\clipper_library.dll
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\LeagueSharp.Common.dll
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\LeagueSharp.dll
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\SharpDX.dll
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\SharpDX.Toolkit.dll
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\SharpDX.Toolkit.Graphics.dll
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\LeagueSharp.xml
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\SharpDX.Toolkit.xml
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Debug\SharpDX.Toolkit.Graphics.xml
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\obj\Debug\Nasus Perfect Q.csprojResolveAssemblyReference.cache
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\obj\Debug\Nasus Perfect Q.exe
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\obj\Debug\Nasus Perfect Q.pdb
+c:\users\kamdzyy\documents\visual studio 2013\Projects\Nasus Perfect Q\Nasus Perfect Q\bin\Release\Nasus Perfect Q.exe.config
